@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      background-color: #f2f2f2;  
+    }
+    
+    div {
+      background-color: #15a8d4;
+      color: #333;
+      padding: 20px;
+    }
+    
+    h1, h2 {
+      font-family: 'Roboto', sans-serif;
+    }
+    
+    section {
+      border: 2px solid #e01111e1;
+      border-radius: 10px;
+    }
+    
+    li:hover {
+      color: #fffb00bf;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>My Page</h1>
+  
+  <div>
+    <p>Some content here</p>
+  </div>
+  
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ul>
+  </section>
+  
+</body>
+</html>
